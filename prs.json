@@ -1,0 +1,10 @@
+[
+    {"repo": "tenstorrent/tt-metal", "number": 54907, "label": "$750"},
+    {"repo": "tenstorrent/tt-metal", "number": 55891, "label": "scalar"},
+    {"repo": "tenstorrent/tt-metal", "number": 55893, "label": "softplus"},
+    {"repo": "tenstorrent/tt-metal", "number": 55894, "label": "repeat_bw"},
+    {"repo": "pytorch/torchtitan", "number": 4294, "label": "SSRF"},
+    {"repo": "huggingface/transformers", "number": 48635, "label": "GQA"},
+    {"repo": "BerriAI/litellm", "number": 40368, "label": "pricing"},
+    {"repo": "langgenius/dify", "number": 42051, "label": "xls"}
+]
